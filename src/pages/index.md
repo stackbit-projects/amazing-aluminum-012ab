@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: hero2
     type: section_hero
     image: images/hero.png
     image_alt: App preview
