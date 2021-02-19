@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    title: "[\U0001D54Aikɹət ʌndəɡɹˈa‍ʊnd]"
   - section_id: features
     type: section_features
     background: gray
