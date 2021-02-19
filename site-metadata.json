@@ -21,7 +21,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "logo_img_alt": "Secret Underground"
     },
     "footer": {
         "sections": [
