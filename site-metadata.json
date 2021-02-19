@@ -1,5 +1,5 @@
 {
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "blue",
     "header": {
         "logo_img": "images/logo.svg",
