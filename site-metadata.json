@@ -1,5 +1,5 @@
 {
-    "base_font": "fira-sans",
+    "base_font": "system-sans",
     "palette": "blue",
     "header": {
         "logo_img": "images/logo.svg",
