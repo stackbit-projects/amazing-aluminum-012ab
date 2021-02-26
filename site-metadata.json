@@ -1,6 +1,6 @@
 {
     "base_font": "system-sans",
-    "palette": "cyan",
+    "palette": "purple",
     "header": {
         "logo_img": "images/1.jpg",
         "has_nav": true,
