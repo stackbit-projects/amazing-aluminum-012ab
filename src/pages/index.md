@@ -16,7 +16,7 @@ sections:
   - section_id: Features
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Features
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
