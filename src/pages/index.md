@@ -16,7 +16,7 @@ sections:
   - section_id: Features
     type: section_reviews
     background: white
-    title: Features
+    title: About Secret Underground
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
