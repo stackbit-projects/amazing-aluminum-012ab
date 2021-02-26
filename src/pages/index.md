@@ -44,7 +44,7 @@ sections:
     type: section_features
     background: gray
     title: Projects
-    subtitle: We work on different projects for or
+    subtitle: We work on different projects for or on Secret Network
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
