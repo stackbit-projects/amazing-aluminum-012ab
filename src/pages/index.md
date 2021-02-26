@@ -13,7 +13,7 @@ sections:
         url: /features
         style: primary
     title: "[\U0001D54Aikɹət ʌndəɡɹˈa‍ʊnd]"
-  - section_id: reviews
+  - section_id: Features
     type: section_reviews
     background: white
     title: Testimonials
