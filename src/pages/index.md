@@ -49,10 +49,10 @@ sections:
       - title: Animated Conent
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We are doing commissioned animated content for Secret Foundation. And
+          we are creating gifs and soon secretNFTs which are given exclusivly to
+          secret underground stakers.
         actions:
           - label: Learn More
             url: /features
