@@ -15,7 +15,7 @@ sections:
     title: "[\U0001D54Aikɹət ʌndəɡɹˈa‍ʊnd]"
   - section_id: Features
     type: section_reviews
-    background: white
+    background: gray
     title: Why stake with Secret Underground
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
