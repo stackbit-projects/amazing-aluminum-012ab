@@ -46,7 +46,7 @@ sections:
     title: Projects
     subtitle: We work on different projects for or on Secret Network
     features:
-      - title: Animated Conent
+      - title: Animated Content
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
