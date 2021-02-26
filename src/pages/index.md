@@ -21,12 +21,12 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - author: Eric Widget
+      - author: High Security
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Secret Underground is located in a underground high security facility.
-          Swiss ex military bunker with redundant 
+          Swiss ex military bunker with redundant
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
