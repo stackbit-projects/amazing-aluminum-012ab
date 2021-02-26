@@ -44,9 +44,7 @@ sections:
     type: section_features
     background: gray
     title: Projects
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We work on different projects for or
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
