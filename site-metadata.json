@@ -3,7 +3,7 @@
     "palette": "cyan",
     "header": {
         "logo_img": "images/1.jpg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
