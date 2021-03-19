@@ -54,7 +54,7 @@ sections:
           we are creating gifs and soon secretNFTs which are given exclusivly to
           secret underground stakers.
         actions:
-          - label: Learn More
+          - label: View on Youtube
             url: /features
             style: secondary
             has_icon: true
