@@ -66,7 +66,7 @@ sections:
         content: |
           BrainSea is a decentralized hub for neural data.
         actions:
-          - label: Learn More
+          - label: Subscribe for the Newsletter
             url: /features
             style: secondary
             has_icon: true
