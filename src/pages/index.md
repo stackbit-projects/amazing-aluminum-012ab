@@ -72,7 +72,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Privacy Machine Learning on Secret Network
+      - title: Private Machine Learning
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
