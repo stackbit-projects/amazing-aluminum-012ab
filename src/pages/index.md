@@ -91,7 +91,7 @@ sections:
     title: Stake your SCRT
     subtitle: Help securing the Secret network and earn 28% APY
     actions:
-      - label: Get Started
+      - label: Stake with
         url: /signup
         style: primary
 seo:
