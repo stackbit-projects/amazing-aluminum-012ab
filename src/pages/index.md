@@ -89,7 +89,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Stake your SCRT
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Help securing the Secret network and earn 28% APY
     actions:
       - label: Get Started
         url: /signup
