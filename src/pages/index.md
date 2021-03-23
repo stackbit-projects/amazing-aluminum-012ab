@@ -44,7 +44,7 @@ sections:
     type: section_features
     background: gray
     title: Projects
-    subtitle: We work on different projects for or on Secret Network
+    subtitle: Projects we are involved based / related to Secret Network
     features:
       - title: Animated Content
         image: images/feature1.png
