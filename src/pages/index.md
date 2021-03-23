@@ -76,9 +76,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          We build  Secret Smart Contracts template to leverage the power of
-          private Machine Learning on Secret Network. You can try it yourself
-          here by uploading template health data.
+          We build  Secret Contracts templates to leverage the power of private
+          Machine Learning on Secret Network. You can try it yourself here by
+          uploading template health data.
         actions:
           - label: Learn More
             url: /features
