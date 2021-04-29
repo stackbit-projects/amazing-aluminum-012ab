@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10_thumb.jpg
+    image: images/11_thumb.jpg
     image_alt: App preview
     content: >
       ###### Azimuth is the perfect theme for developers, designers and
