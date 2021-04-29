@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image: images/10_thumb.jpg
     image_alt: App preview
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      ###### Azimuth is the perfect theme for developers, designers and
+      entrepreneurs who need a sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features
