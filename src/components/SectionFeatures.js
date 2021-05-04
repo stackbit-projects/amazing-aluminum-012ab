@@ -27,7 +27,6 @@ export default class SectionFeatures extends React.Component {
                     {_.get(feature, 'image', null) && (
                     <div className="cell block-preview">
                       <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/_e5SaJG2ZZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     )}
                     <div className="cell block-content">
