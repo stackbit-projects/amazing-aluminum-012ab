@@ -53,7 +53,6 @@ sections:
           We are doing commissioned animated content for Secret Foundation. And
           we are creating gifs and soon secretNFTs which are given exclusivly to
           secret underground stakers.
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/_e5SaJG2ZZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         actions:
           - label: View on Youtube
             url: /features
